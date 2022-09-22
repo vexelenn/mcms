@@ -5,7 +5,7 @@ In this repo my asset code is stored. Asset code was used to train the deepracer
 
 # Licence
 
-If you base on my assed, kindly share my name and Github link :)
+If you base on my asset, kindly share my name and Github link :)
 
 # Physical explanaition
 
